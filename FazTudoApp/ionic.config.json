@@ -1,0 +1,7 @@
+{
+  "name": "FazTudoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
